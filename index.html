@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Tienda de Comercio Electrónico</title>
+</head>
+<body>
+    <div id="notification-area"></div>
+    
+    <header class="app-header">
+        <h1>TechStore Consultores</h1>
+        <div class="cart-summary">
+            🛒 Carrito: <span id="cart-count">0</span> items | Total: $<span id="cart-total">0</span>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="search-container">
+            <input type="text" id="product-search" placeholder="Escribe para buscar productos...">
+        </div>
+        
+        <div id="results-container" class="grid-container">
+            </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
