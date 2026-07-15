@@ -22,3 +22,10 @@ Al ser un proyecto desarrollado estrictamente en Vanilla JS, no requiere instala
 1. Clona este repositorio en tu máquina local:
    ```bash
    git clone [https://github.com/Sergio25-prog/web2_s3.git](https://github.com/Sergio25-prog/web2_s3.git)
+
+1. Abre la carpeta del proyecto en tu editor de código (se recomienda Visual Studio Code).
+
+2. Ejecuta el archivo index.html en tu navegador web preferido, o utiliza la extensión Live Server para una experiencia de desarrollo en vivo.
+
+Autor
+[Sergi Delgado] * Desarrollo correspondiente a los requerimientos de la asignatura de Programación Web 2, semana 3.
